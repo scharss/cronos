@@ -7,3 +7,4 @@ ChronoSwap: https://chronoswap.org/
 CryptoSwapp: https://cryptoswapp.com/buysell?type=...
 Beefy Finance: https://www.beefy.finance/
 AnySwap: https://anyswap.exchange/#/router
+Cronos Blockchain: https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta
