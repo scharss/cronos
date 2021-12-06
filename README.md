@@ -7,4 +7,8 @@
 ## CryptoSwapp: https://cryptoswapp.com/buysell?type=sell&cryptocurrency&country&currency&payment_system&sort_by=AUTO
 ## Beefy Finance: Beefy Finance: 
 ## AnySwap: https://anyswap.exchange/#/router
-Cronos Blockchain: https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta
+## Cronos Blockchain: https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta
+# Referidos para commprar Crypto
+## Use my referral link https://crypto.com/app/at85jqff5x to sign up for Crypto.com and we both get $25 USD 
+## Regístrese con Coinbase usando mi enlace y ambos podremos obtener 39.681,98 COP en bitcoins https://www.coinbase.com/join/NYK11P?src=android-link
+
