@@ -13,3 +13,4 @@
 ## Usa mi enlace de referencia https://crypto.com/app/at85jqff5x para registrarse en Crypto.com y ambos obtenemos $ 25 USD
 ## Regístrese con Coinbase usando mi enlace y ambos podremos obtener 39.681,98 COP en bitcoins https://www.coinbase.com/join/NYK11P?src=android-link
 ## Binance https://www.binance.com/en/activity/referral-entry?fromActivityPage=true&ref=LIMIT_RL2JI4ZK
+## Binance Standard Referral https://accounts.binance.com/en/register?ref=281877979
