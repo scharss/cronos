@@ -14,3 +14,8 @@
 ## Regístrese con Coinbase usando mi enlace y ambos podremos obtener 39.681,98 COP en bitcoins https://www.coinbase.com/join/NYK11P?src=android-link
 ## Binance https://www.binance.com/en/activity/referral-entry?fromActivityPage=true&ref=LIMIT_RL2JI4ZK
 ## Binance Standard Referral https://accounts.binance.com/en/register?ref=281877979
+# DEXes
+## https://photonswap.finance/#/swap
+## https://www.cronosyield.finance/
+## https://vvs.finance/
+## https://cronos.crystl.finance/vaults
