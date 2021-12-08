@@ -23,3 +23,5 @@
 ## CryptoSwapp: https://cryptoswapp.com/buysell?type=sell&cryptocurrency&country&currency&payment_system&sort_by=AUTO
 ## Beefy Finance: Beefy Finance: 
 ## AnySwap: https://anyswap.exchange/#/router
+# Articles
+## Cronos Ecosystem November Update https://medium.com/cronos-chain/cronos-ecosystem-november-update-2a0b19b9d55f
