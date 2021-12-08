@@ -6,6 +6,12 @@
 ## https://crypto.com/exchange
 # Block Explorer 
 ## https://cronos.crypto.org/explorer/
+# Top 5 DeFi Protocols
+## https://vvs.finance/
+## https://www.beefy.finance/
+## https://autofarm.network/
+## https://app.cronaswap.org/
+## https://crodex.app/
 # Referidos para comprar Crypto
 ## Use my referral link https://crypto.com/app/at85jqff5x to sign up for Crypto.com and we both get $25 USD 
 ## Usa mi enlace de referencia https://crypto.com/app/at85jqff5x para registrarse en Crypto.com y ambos obtenemos $ 25 USD
