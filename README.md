@@ -2,6 +2,8 @@
 
 # Cronos Blockchain
 ## Cronos Blockchain: https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta
+# Exchange
+## https://crypto.com/exchange
 # Referidos para commprar Crypto
 ## Use my referral link https://crypto.com/app/at85jqff5x to sign up for Crypto.com and we both get $25 USD 
 ## Usa mi enlace de referencia https://crypto.com/app/at85jqff5x para registrarse en Crypto.com y ambos obtenemos $ 25 USD
