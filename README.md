@@ -7,7 +7,7 @@
 ## Chain ID: 25 
 ## Symbol: CRO 
 ## Block explorer URL: https://cronos.crypto.org/explorer/ 
-## Cronos Testnet Blockchain
+# Cronos Testnet Blockchain
 ## Network Name: Cronos Testnet
 ## New RPC URL: https://cronos-testnet-3.crypto.org:8545/
 ## Chain ID: 338
