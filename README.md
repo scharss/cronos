@@ -8,10 +8,7 @@
 ## Symbol: CRO 
 ## Block explorer URL: https://cronos.crypto.org/explorer/ 
 # Cronos Testnet Blockchain
-## Network Name:Cronos
-## New RPC URL:https://cronos-testnet.crypto.org:8545/
-## Chain ID: 338
-## Currency Symbol: tCRO
+## https://cronos.crypto.org/faucet
 # Exchange
 ## https://crypto.com/exchange
 # Block Explorer 
