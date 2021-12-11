@@ -9,6 +9,7 @@
 ## Block explorer URL: https://cronos.crypto.org/explorer/ 
 # Cronos Testnet Blockchain
 ## https://cronos.crypto.org/faucet
+##Cronos DeFi Wallet Tesntnet TCro: 0xae50a175aca12eea9b62e8df4009875d42c6a9f4
 # Exchange
 ## https://crypto.com/exchange
 # Block Explorer 
