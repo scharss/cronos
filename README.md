@@ -1,6 +1,6 @@
 # cronos
 
-# Cronos Blockchain
+# Cronos Mainnet  Blockchain
 ## Cronos Blockchain: https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta
 ## Network: Cronos Chain 
 ## New RPC URL: https://evm-cronos.crypto.org 
