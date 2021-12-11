@@ -2,7 +2,7 @@
 
 # Cronos Mainnet  Blockchain
 ## Cronos Blockchain: https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta
-## Network: Cronos Chain 
+## Network: Cronos Mainnet 
 ## New RPC URL: https://evm-cronos.crypto.org 
 ## Chain ID: 25 
 ## Symbol: CRO 
