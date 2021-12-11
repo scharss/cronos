@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 // Developer scharss.github.io
 // Smart contract Address 0xB9ba3cbb639326320Fdf4D0A97C19f599522e81D
+// CronosScan https://cronos.crypto.org/explorer/testnet3/tokens/0xB9ba3cbb639326320Fdf4D0A97C19f599522e81D/token-transfers
+
 pragma solidity ^0.8.9;
 
 import "@openzeppelin/contracts@4.4.0/token/ERC20/ERC20.sol";
