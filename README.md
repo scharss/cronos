@@ -4,13 +4,10 @@
 ## Cronos Blockchain: https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta
 ## Insert the network name, for example "Cronos" and put
 
-## https://evm-cronos.crypto.org for New RPC URL; and
-
-## 25 for Chain ID,
-
-## CRO for the symbol, and
-
-## https://cronos.crypto.org/explorer/ for the Block explorer URL
+## New RPC URL https://evm-cronos.crypto.org 
+## Chain ID 25 
+## Symbol CRO 
+## Block explorer URL https://cronos.crypto.org/explorer/ 
 # Exchange
 ## https://crypto.com/exchange
 # Block Explorer 
